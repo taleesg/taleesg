@@ -2,7 +2,7 @@
 
 Meu nome é Tales Dinei
 
-- Estou estudando na Alura
+- Estou estudando na Alura (https://cursos.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
@@ -12,5 +12,5 @@ Meu nome é Tales Dinei
 
   @dineitales
 
-  ![](https://media1.tenor.com/m/voVCn2iXdgEAAAAd/jj-griddy.gif)
+  ![](https://media1.tenor.com/m/QcrcBpXx3qYAAAAC/boy-kid.gif)
   
